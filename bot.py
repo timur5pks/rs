@@ -11,7 +11,7 @@ import sqlite3
 import json
 
 # ==================== НАСТРОЙКИ ====================
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # Получить у @BotFather
+BOT_TOKEN = "7164079471:AAFCQBQObYPXGzzadNKZP8j6CmbHjXJO4_U"  # Получить у @BotFather
 ADMIN_IDS = [123456789]  # Ваш Telegram ID
 
 # AI API (бесплатные)
